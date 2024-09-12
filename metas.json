@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Tomar 2L de água por dia",
+    "checked": true
+  },
+  {
+    "value": "Passear com os cachorros",
+    "checked": true
+  },
+  {
+    "value": "Ler 1 livro por mês",
+    "checked": false
+  },
+  {
+    "value": "Estudar inglês 3h por dia",
+    "checked": false
+  },
+  {
+    "value": "Assistir live de encerramento NWL",
+    "checked": false
+  }
+]
